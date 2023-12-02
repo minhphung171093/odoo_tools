@@ -24,6 +24,8 @@ git clone https://github.com/aeroo/aeroolib.git
 git clone https://github.com/aeroo/currency2text.git
 python3 setup.py install
 
+git clone https://github.com/minhphung171093/odoo_tools.git
+
 Thu thu chay lenh
 apt-get install -y xfonts-base
 apt-get install -y xfonts-encodings
